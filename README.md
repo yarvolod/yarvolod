@@ -1,7 +1,7 @@
 @yarvolod
 
 ### [Yar Pirate Ipsum](https://pirateipsum.me)
-```
+
 Matey yo-ho-ho Jack Ketch port to go on account cutlass Pieces of Eight interloper galleon aft.
 
 Nipperkin schooner piracy six pounders aye jury mast prow Nelsons folly dead men tell no tales sutler.
@@ -15,7 +15,6 @@ Lee bilged on her anchor killick hearties gangway Buccaneer ballast yardarm hemp
 Jib marooned pirate cog take a caulk smartly spirits pink nipperkin gangplank.
 
 Code of conduct Admiral of the Black cutlass red ensign lad chase guns overhaul gabion league weigh anchor.
-```
 
 <!---
 yarvolod/yarvolod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
